@@ -30,25 +30,40 @@ input[type=email] {
        text-align: center;
        font-size: 40px;
    }
-   
+  
   }
-.middle-section {
+
+.mid-section{
     background-color: #1B262F;
     color: white;
-    margin-top: 150px;
-    height: 472px;
     background-image: url('../assets/shared/desktop/bg-pattern-circle.svg');
-    background-position: top right;
+    background-position: top left;
     background-repeat: no-repeat;
+    height: 472px;
 }
 
+.buffer {
+    height: 150px;
+}
 
-@media screen and (min-width: 992px) {
-    .logo {
-        position: relative;
-        left: 500px;
+.feature-text h3 {
+    font-size: 50px;
+    color:#36536B;
+}
+
+.feature-text p {
+    color:#36536B;
+}
+
+@media only screen and (min-width: 992px) {
+    .feature-text h3 {
+        margin-top: 50px;
     }
+    
+    .feature-text p {
+        margin-top: 20px;
+    }
+   
    }
-
 
 
