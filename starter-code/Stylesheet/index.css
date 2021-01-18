@@ -1,0 +1,54 @@
+body {
+    background-color:#EDF3F8;
+    background-image: url('../assets/home/desktop/bg-pattern-circle.svg');
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.container h1 {
+    font-size: 72px;
+}
+
+/* form design */
+.banner-btn {
+    position: relative;
+    top: -62px;
+    left: 279px;
+}
+
+input[type=email] {
+    border-radius: 40px;;
+}
+
+#emailHelp {
+    position: relative;
+    left: 15px;
+}
+
+@media only screen and (max-width: 576px) {
+   .container h1 {
+       text-align: center;
+       font-size: 40px;
+   }
+   
+  }
+.middle-section {
+    background-color: #1B262F;
+    color: white;
+    margin-top: 150px;
+    height: 472px;
+    background-image: url('../assets/shared/desktop/bg-pattern-circle.svg');
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+
+@media screen and (min-width: 992px) {
+    .logo {
+        position: relative;
+        left: 500px;
+    }
+   }
+
+
+
