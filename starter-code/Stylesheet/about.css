@@ -18,26 +18,8 @@ input[type=email] {
     border-radius: 40px;;
 }
 @media only screen and (min-width: 992px) {
-    .ready{
-        position: relative;
-        left: -197px;
-        top: -14px;
+    .banner-btn {
+        width: 50%;
     }
-
-    .ready-input {
-        position: relative;
-        left: -130px;
-    }
-
-    .ready-button{
-        position: relative;
-        left: 32px;
-    }
-   
    }
 
-   .footer-btn {
-    position: relative;
-    left: 168px;
-    top: -38px;
-}
