@@ -42,9 +42,9 @@ input[type=email] {
     height: 472px;
 }
 
-.buffer {
+/* .buffer {
     height: 150px;
-}
+} */
 
 .feature-text h3 {
     font-size: 50px;
@@ -74,18 +74,6 @@ input[type=email] {
         right: 600px;
     }
 
-    /* .ready{
-        position: relative;
-        left: -197px;
-    } */
-
-    /* .ready-input {
-        position: relative;
-        left: -130px;
-    } */
-
-   
-
     .banner-btn {
         width: 50%;
     }
@@ -101,12 +89,6 @@ input[type=email] {
     font-size: 50px;
 }
 
-
-/* .footer-btn {
-    position: relative;
-    left: 168px;
-    top: -38px;
-} */
 
 .feature2 {
     background-image: url(../assets/home/desktop/bg-pattern-circle.svg);
