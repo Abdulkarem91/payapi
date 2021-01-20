@@ -10,11 +10,11 @@ body {
 }
 
 /* form design */
-.banner-btn {
+/* .banner-btn {
     position: relative;
     top: -62px;
     left: 279px;
-}
+} */
 
 input[type=email] {
     border-radius: 40px;;
@@ -101,11 +101,11 @@ input[type=email] {
 }
 
 
-.footer-btn {
+/* .footer-btn {
     position: relative;
     left: 168px;
     top: -38px;
-}
+} */
 
 .feature2 {
     background-image: url(../assets/home/desktop/bg-pattern-circle.svg);
