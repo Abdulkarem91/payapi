@@ -74,20 +74,17 @@ input[type=email] {
         right: 600px;
     }
 
-    .ready{
+    /* .ready{
         position: relative;
         left: -197px;
-    }
+    } */
 
-    .ready-input {
+    /* .ready-input {
         position: relative;
         left: -130px;
-    }
+    } */
 
-    .ready-button{
-        position: relative;
-        left: 32px;
-    }
+   
 
     .banner-btn {
         width: 50%;
