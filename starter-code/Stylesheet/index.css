@@ -88,6 +88,10 @@ input[type=email] {
         position: relative;
         left: 32px;
     }
+
+    .banner-btn {
+        width: 50%;
+    }
    
    }
 
